@@ -10,7 +10,7 @@ Baseline:
 
 Federated Learning：
 
-![texstudio_mv9h2oHxYE](https://github.com/user-attachments/assets/ed7e4d39-2c19-4611-a64a-35fc7482141a)
+![Table 2](https://github.com/user-attachments/assets/ed7e4d39-2c19-4611-a64a-35fc7482141a)
 
 
 ## REFERENCE
