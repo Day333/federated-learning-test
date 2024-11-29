@@ -1,5 +1,3 @@
-![texstudio_NVG44dTSeP](https://github.com/user-attachments/assets/805252e0-f80f-4693-983c-4f09ffd0eee7)
-
 # Federated-Learning-Test
 
 This project implements a federated learning framework based on three models (CNN, MLP and logistic regression) on the MINIST and CIFAR-10 datasets. For more, check out the pdf file in the main directory.
@@ -7,7 +5,12 @@ This project implements a federated learning framework based on three models (CN
 # Experiment
 
 Baseline:
+
 ![Table 1](https://github.com/user-attachments/assets/0c2827b6-cee8-497f-bf50-ec9446b18a7e)
+
+Federated Learning：
+
+![texstudio_mv9h2oHxYE](https://github.com/user-attachments/assets/ed7e4d39-2c19-4611-a64a-35fc7482141a)
 
 
 ## REFERENCE
